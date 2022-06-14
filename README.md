@@ -5,7 +5,7 @@ Amazing Prime is sponsoring a hackathon that will provide a clean database of mo
 
 ## Resources
 - Data: wikipedia-movies.json, movies_metadata.csv, and ratings.csv
-- Python 3.9.7,Jupyter Notebook, PostGreSQL, 
+- Python 3.7.11,Jupyter Notebook, PostGreSQL, 
 
 ## Results
 
